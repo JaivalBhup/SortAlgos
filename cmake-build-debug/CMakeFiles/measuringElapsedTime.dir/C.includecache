@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaivalbhuptani/CLionProjects/measuringElapsedTime/QuickSort.c
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+SortingAlgos.h
+/Users/jaivalbhuptani/CLionProjects/measuringElapsedTime/SortingAlgos.h
+
+/Users/jaivalbhuptani/CLionProjects/measuringElapsedTime/SortingAlgos.h
+
